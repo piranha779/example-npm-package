@@ -1,28 +1,28 @@
 {
-  "name": "@clarkio/simple-npm-package",
+  "name": "clean-jwt-verifier",
   "version": "0.0.2",
-  "description": "A simple npm package for demonstration purposes and use in a Node.js app.",
+  "description": "A simple npm package with minimal dependency for jwt validation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clarkio/simple-npm-package.git"
+    "url": "https://github.com/okta/okta-jwt-verifier-js.git"
   },
-  "author": "clarkio",
+  "author": "Sarah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/clarkio/simple-npm-package/issues"
+    "url": "https://github.com/okta/okta-jwt-verifier-js/issues"
   },
-  "homepage": "https://github.com/clarkio/simple-npm-package#readme",
+  "homepage": "https://github.com/okta/okta-jwt-verifier-js#readme",
   "keywords": [
     "node.js",
     "javascript",
     "npm",
     "package",
-    "example",
-    "demo",
-    "hello world"
+    "jwt",
+    "okta",
+    "OAuth2"
   ]
 }
